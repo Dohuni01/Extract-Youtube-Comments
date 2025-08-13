@@ -1,5 +1,3 @@
-# Extract-Youtube-Comments
-
 # YouTube 댓글 수집기 (YouTube Comment Scraper)
 
 이 프로젝트는 **YouTube Data API v3**를 활용하여 지정된 YouTube 동영상의 **상위 댓글**을 자동으로 수집하고 JSON 파일로 저장하는 Python 스크립트입니다.  
